@@ -1,2 +1,2 @@
 # MechaReview
-Mech Eng Review Curri
+Mech Eng Review Curriculum
